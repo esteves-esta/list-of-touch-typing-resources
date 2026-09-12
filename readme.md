@@ -529,6 +529,25 @@ In the free version it has lessons with open source code that allow you to pract
 
 ---
 
+#### [TypeTap](https://typetap.io/) [ FREE ]
+A privacy‑focused browser‑based touch‑typing platform with structured finger practice, multiple timed tests and gamified training. Supports AI‑generated typing content and AI‑driven performance analysis, and can issue practice certificates.
+
+##### Languages
+- Multiple languages
+- 
+##### Features
+- No registration required
+- Touch‑typing finger lessons
+- 30‑second / 60‑second timed typing tests
+- Career‑oriented practice modes
+- Typing‑practice certificates
+- AI‑generated custom typing content
+- AI‑powered performance analysis
+- Typing mini‑games
+- WPM & accuracy statistics
+
+---
+
 ## Inspired by
 
 Inspire by the **Awesome List** here on github and by the article [Teach yourself Touch Typing with Free Tools](https://www.labnol.org/internet/teach-yourself-touch-typing-with-free-tools/28849/) by Amit Agarwal. 
