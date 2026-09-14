@@ -14,9 +14,7 @@
 
 ---
 
-## Contribute
-
-Contributions are most welcome! Please read and adhere to the [contribution guidelines](contributing.md) first.
+## This repo is not receveing contributions anymore !
 
 ---
 
