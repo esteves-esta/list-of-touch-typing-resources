@@ -204,6 +204,35 @@ Typey Type for Stenographers is a free typing app designed to help steno student
 ---
 
 
+#### [Krapka](https://krapka.app/) [ FREEMIUM ]
+Type through complete public-domain short stories in the language they were written in. A slider replaces any share of the visible letters with dots, so you can move from copying the text to typing it from memory, and every sentence carries a translation one tap below. Free to try without an account; the full stories and the full visibility range are on the $5/month plan.
+
+##### Languages
+- English
+- Ukrainian
+- Spanish
+- French
+- German
+- Italian
+- Portuguese
+- Korean
+
+##### Features
+- Practice with: sentences, paragraphs or full passages
+- Hidden-character mode: hide any share of the letters
+- Per-sentence translation
+- Three difficulty levels per story: beginner / intermediate / advanced
+- 70 public-domain short stories, human-reviewed
+- Keyboard layouts: QWERTY, Colemak, Colemak-DH, Dvorak, Workman, BÉPO, QWERTZ, Neo2, Dubeolsik, Sebeolsik 390
+- Traditional or ortholinear (matrix) keyboard display
+- Virtual Keyboard
+- Theme
+- Ambient soundtrack
+
+
+---
+
+
 ### Software 
 
 #### [TIPP 10](https://www.tipp10.com/) [ FREE ]
